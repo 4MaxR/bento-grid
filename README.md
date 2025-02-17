@@ -31,7 +31,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Screenshot_bento_grid.png)
+![image](https://github.com/user-attachments/assets/a59cea32-1a67-4355-8ccd-703be24aa68c)
+
 
 ### Links
 
